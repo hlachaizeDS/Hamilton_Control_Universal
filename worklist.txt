@@ -1,0 +1,19 @@
+Step name	arg1	arg2	arg3	arg4	arg5
+Tip_pickup_8channels	Tips_1000_1;Tips_1000_1	1;2	11000000	0
+Aspirate_8channels	HighVolume_Premix_DispenseJet_Part	PremixA;PremixA;PremixC;PremixC;PremixG;PremixG;PremixT;PremixT	1;2	900;900;0;0;0;0;0;0	11000000
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	00000011
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	00001111
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	00111111
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part	FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate	A1;B1;A2;B2;A3;B3;A4;B4;A5;B5;A6;B6;A7;B7;A8;B8;A9;B9;A10;B10;A11;B11;A12;B12	25	11111111
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part	FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate	C1;D1;C2;D2;C3;D3;C4;D4;C5;D5;C6;D6;C7;D7;C8;D8;C9;D9;C10;D10;C11;D11;C12;D12	25	11111100
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part	FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate	E1;F1;E2;F2;E3;F3;E4;F4;E5;F5;E6;F6;E7;F7;E8;F8;E9;F9;E10;F10;E11;F11;E12;F12	25	11110000
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	11000000
+Aspirate_8channels	HighVolume_Premix_DispenseJet_Part	PremixA;PremixA;PremixC;PremixC;PremixG;PremixG;PremixT;PremixT	1;2	300;300;0;0;0;0;0;0	11000000
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	00000011
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	00001111
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	00111111
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	11111111
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	11111100
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part			25	11110000
+Dispense_OnTheFly	HighVolume_Premix_DispenseJet_Part	FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate;FilterPlate	G1;H1;G2;H2;G3;H3;G4;H4;G5;H5;G6;H6;G7;H7;G8;H8;G9;H9;G10;H10;G11;H11;G12;H12	25	11000000
+Tip_eject_8channels	Tips_1000_1;Tips_1000_1	1;2	11000000	0
